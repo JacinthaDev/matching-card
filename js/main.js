@@ -9,7 +9,7 @@ cards.forEach(card => {
 })
 
 //make an array of img SRCs and copy it since we need 2 of each
-let imgArray = ["imgs/patrick.gif", "imgs/simpson.gif", "imgs/squidward.gif", "imgs/spongebob.gif", "imgs/stewie.gif", "imgs/green.gif", "imgs/ash.gif", "imgs/bob.gif"]
+let imgArray = ["imgs/cherry.jpeg", "imgs/avocado.jpeg", "imgs/apple.png", "imgs/mango.jpeg", "imgs/mango2.jpeg", "imgs/orange.jpeg", "imgs/pear.jpeg", "imgs/strawberry.jpeg"]
 imgArray = [...imgArray, ...imgArray]
 
 let card1, card2
