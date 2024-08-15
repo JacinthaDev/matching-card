@@ -1,7 +1,7 @@
 # ♠️ Matching Card Game
 <img width="811" alt="memory" src="https://github.com/JacinthaDev/memory-game/assets/129231721/fc81148b-e682-4b8e-a5ae-152efe185dc7">
 
-Checkout this project here!: https://jacinthadev.github.io/memory-game/
+Checkout this project here!: [https://jacinthadev.github.io/memory-game/](https://memorygame-rc.netlify.app)
 
 
 # About this project
